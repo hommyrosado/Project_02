@@ -1,7 +1,11 @@
-// CMSC 330 Advanced Programming Languages
-// Project 2 Skeleton
-// UMGC CITE
-// Spring 2023
+/**
+ * minus.h
+ * CMSC 330 – Advanced Programming
+ * Name: Hommy Rosado
+ * WEEK 08: PROJECT 2
+ * Date: 5/5/2025
+ * Description: C++ Application Expression Parser
+ */
 
 // This file contains the class definition of the Minus class, which is a subclass of SubExpression,
 // which in turn is a subclass of the Expression. Because both of its functions are one line functions, 

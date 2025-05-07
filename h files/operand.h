@@ -1,7 +1,11 @@
-// CMSC 330 Advanced Programming Languages
-// Project 2 Skeleton
-// UMGC CITE
-// Spring 2023
+/**
+ * operand.h
+ * CMSC 330 – Advanced Programming
+ * Name: Hommy Rosado
+ * WEEK 08: PROJECT 2
+ * Date: 5/5/2025
+ * Description: C++ Application Expression Parser
+ */
 
 // This file contains the definition of the Operand class, which is a subclass of Expression. It is an
 // abstract class because it does not implement the evaluate function. It contains one static (class)
