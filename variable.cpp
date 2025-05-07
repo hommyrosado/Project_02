@@ -1,7 +1,11 @@
-// CMSC 330 Advanced Programming Languages
-// Project 2 Skeleton
-// UMGC CITE
-// Spring 2023
+/**
+ * variable.cpp
+ * CMSC 330 – Advanced Programming
+ * Name: Hommy Rosado
+ * WEEK 08: PROJECT 2
+ * Date: 5/5/2025
+ * Description: C++ Application Expression Parser
+ */
 
 // This file contains the body of the function contained in The Variable class. The evaluate function 
 // looks up te value of a variable in the symbol table and returns that value.
